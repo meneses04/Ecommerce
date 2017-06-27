@@ -1,0 +1,39 @@
+body {
+	background-image: url("4.jpg");
+	background-repeat: no-repeat;
+	background-size: 1900px 975px;
+	color: white;
+	background-attachment: fixed;
+}
+table {
+	color: black;
+}
+h1 {
+	color: black;
+}
+h2 {
+	color: black; 
+}
+ul {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    display: block;
+    width: 60px;
+}
+.kahon {
+	background-color: white;
+}
+.one {
+	border-radius: 50%;
+}
+.two {
+	border-radius: 50%;
+
+}
+.tree {
+	border-radius: 50%;
+
+}
